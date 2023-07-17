@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GsNjeysm1mlPoSAqFljQzLFDAYvLdbSipzLCI5zio10B9/E6L6GJw6O/4OwlYLcWPifmUTR29IJ7MkmHlbeNkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fujimoto.rei22\\repos\\LocationTracking.Backend\\LocationTracking.Backend\\LocationTracking.Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fujimoto.rei22\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
